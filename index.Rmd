@@ -1,0 +1,26 @@
+---
+title: "Luc's Website"
+# author: "Luc Esprabens"
+# date: "2/28/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Names of Collaborators and GitHub URLs
+Name: Luc Esprabens
+
+URL: [https://github.com/lucesprabens](url)
+
+Name: Manasi Anand
+
+URL: [https://github.com/Manasi6594](url)
+
+
+
+
+![Taughannock Falls. Source: Walter Bibikow / Getty Images](https://www.thoughtco.com/thmb/KanhryhDDOv1R6rTI304g7-XMrE=/1885x1414/smart/filters:no_upscale()/usa--new-york--exterior-817639828-5c41eeaec9e77c00016fee77.jpg)
+
+
