@@ -12,11 +12,11 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Names of Collaborators and GitHub URLs
 Name: Luc Esprabens
 
-URL: [https://github.com/lucesprabens](url)
+URL: https://github.com/lucesprabens
 
 Name: Manasi Anand
 
-URL: [https://github.com/Manasi6594](url)
+URL: https://github.com/Manasi6594
 
 
 
