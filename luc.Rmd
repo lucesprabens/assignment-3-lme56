@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Unordered list of facts about Luc
+## List of facts about Luc
 * I am from Los Angeles, CA.
 * I did my undergraduate degree at UC San Diego.
 * Here, at Cornell, I'm studying environmental and development economics.

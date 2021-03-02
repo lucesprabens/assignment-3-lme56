@@ -8,6 +8,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+# List of facts about Manasi
 - I am a PhD Student at Cornell University
 - I study the institutional, livelihood, and carbon dynamics of forests
 - I love animals
