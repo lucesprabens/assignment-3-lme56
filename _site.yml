@@ -1,3 +1,4 @@
+name: "Luc's Website"
 output_dir: "."
 navbar:
   left:
@@ -10,7 +11,10 @@ navbar:
 
 output:
   html_document:
-    theme: cerulean
+    theme: simplex
     highlight: textmate
     toc: true
+    toc_depth: 2
     toc_float: true
+      #collapsed: true
+      #smooth_scroll: true
