@@ -14,7 +14,7 @@ output:
     theme: simplex
     highlight: textmate
     toc: true
-    toc_depth: 2
+    toc_depth: 3 # 3 is the default
     toc_float: true
       #collapsed: true
       #smooth_scroll: true
